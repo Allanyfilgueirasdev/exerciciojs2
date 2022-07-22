@@ -1,0 +1,27 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "# exerciciojs3",
+  "main": "exercicio2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allanyfilgueirasdev/exerciciojs2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allanyfilgueirasdev/exerciciojs2/issues"
+  },
+  "homepage": "https://github.com/Allanyfilgueirasdev/exerciciojs2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
